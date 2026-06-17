@@ -99,7 +99,7 @@ The generated spreadsheets (`companies.xlsx` and `company_contacts_from_markdown
 
 | Company Name | Contact Number | Email |
 | :--- | :--- | :--- |
-| AADITYA STAINLESS PVT. LTD. | 917021085650 | marketing@aadityastainless.com |
-| AANURAJ FASTENERS PVT. LTD. | (Blank/Empty) | sales@aanuraj.com |
-| NETZSCH TECHNOLOGIES INDIA PVT. LTD. | 4442965100 | prasanna.samanthula@netzsch.com |
+| AA***YA ST**ESS PVT. LTD. | 91702***** | marketing@**.com |
+| A***AJ F**** PVT. LTD. | (Blank/Empty) | sales@aa**.com |
+| N**** TECHNOLOGIES INDIA PVT. LTD. | 444**** | pr****a@c.com |
 
